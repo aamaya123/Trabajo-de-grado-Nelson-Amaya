@@ -1,0 +1,18 @@
+name: tesis
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.9
+  - pip
+  - jupyter
+  - pandas
+  - numpy
+  - rdkit
+  - chembl_webresource_client
+  - seaborn
+  - scikit-learn
+  - ipython
+  - openpyxl
+  - optuna
+  - bayesian-optimization
